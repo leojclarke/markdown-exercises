@@ -56,9 +56,8 @@ Wer hat bei neuefische welche Funktion?
 | Jan         | Assistent Coach              |
 
 
-Mitarbeiter Rolle  
- Dalia Chefin, Unternehmenskontakte
-Gesche Organisation  
- Christian Head Coach  
- Jerry Head Coach  
- Jan Assistent Coach
+- [Willkommen bei neuefische](#willkommen-bei-neuefische)
+  - [Hier lernt Ihr zu coden!](#hier-lernt-ihr-zu-coden)
+    - [Was erwartet Euch?](#was-erwartet-euch)
+    - [Was sind HTML, CSS und JavaScript eigentlich und wie sehen sie aus?](#was-sind-html-css-und-javascript-eigentlich-und-wie-sehen-sie-aus)
+    - [Quellen](#quellen)
